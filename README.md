@@ -4,8 +4,10 @@
 
 Material for the course ISE-364/464, titled "Introduction to Machine Learning". This includes all original lecture slides that I created as well as homework assignments, projects, and the placement exam accompanying the course.
 
-This course was built and delivered in the Fall 2024 semester at Lehigh University in the Industrial and Engineering Department. Two sections of this course were taught in tandem: a 364 section (for senior undergraduate students) and a 464 section (for graduate students).
-As such, the lecture material remains the same for both sections, but the graduate section will be augmented to have more difficult problems in homework assignments and projects.
+I originally built this course and taught it in the Fall 2024 semester at Lehigh University in the Industrial and Systems Engineering (ISE) Department. Two sections of this course were taught in tandem: a 364 section (for senior undergraduate students) and a 464 section (for graduate students).
+As such, the lecture material remains the same for both sections, but the graduate section is simply augmented to have more difficult problems in the homework assignments and projects.
+
+The material herein can be used in a variety of university, industrial, or recreational uses: to teach a university or industry-oriented introductory course on machine learning (ML), to serve as a comprehensive reference source for the fundamentals of the field of ML, or even topic-specific seminars (as the lectures are broken down by topic and are relatively independent from each other).
 
 ## Course Overview & General Outline
 
