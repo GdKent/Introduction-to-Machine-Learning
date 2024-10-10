@@ -9,6 +9,8 @@ As such, the lecture material remains the same for both sections, but the gradua
 
 The material herein can be used in a variety of university, industrial, or recreational uses: to teach a university or industry-oriented introductory course on machine learning (ML), to serve as a comprehensive reference source for the fundamentals of the field of ML, or even topic-specific seminars (as the lectures are broken down by topic and are relatively independent from each other).
 
+I will maintain this repository and keep the material updated if any edits are required. Further, I may develop more advanced material for future education in more specialized topics (deep learning, data mining, statistics, and / or optimization, etc.) which I will distinguish from the core course material as "special topics".
+
 ## Course Overview & General Outline
 
 
