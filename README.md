@@ -11,6 +11,8 @@ The material herein can be used in a variety of university, industrial, or recre
 
 I will maintain this repository and keep the material updated if any edits are required. Further, I may develop more advanced material for future education in more specialized topics (deep learning, data mining, statistics, and / or optimization, etc.) which I will distinguish from the core course material as "special topics".
 
+Please send any comments and corrections to me at gdk220@lehigh.edu. Further, if you are a course instructor seeking complete solution write-ups for the homework assignments, again, please email me at the aforementioned address.
+
 ## Course Overview & General Outline
 
 
