@@ -15,7 +15,7 @@ Please send any comments and corrections to me at gdk220@lehigh.edu. Further, if
 
 ## Course Overview & General Outline
 
-
+![](What is Machine Learning.pdf)
 
 
 
