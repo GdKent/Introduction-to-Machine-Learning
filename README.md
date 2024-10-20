@@ -25,9 +25,9 @@ fundamental mathematical building blocks in order to gain a deep understanding o
 algorithm. The learning of these concepts will be facilitated with homework assignments that will consist of a
 mixture of mathematical and coding problems (emphasis will be placed on the mathematics behind the algorithms and experience applying these models in practice).
 
-### Topics Covered
-
 ![](What_is_ML.PNG)
+
+### Topics Covered
 
 The general outline of topics that are covered in this course can be split up into the 6 following categories (by topic):
 
@@ -67,5 +67,17 @@ aid in learning the material. Choosing Python as the language for this class has
 ![](Coding_Competencies.PNG)
 
 This course is structured in a way where students are not required to have prior experience coding with Python (though it would be beneficial) as the first month or so is designed to include introductory material for each of the fundamental pyhon libraries: Numpy, Pandas, Matplotlib, and Seaborn. However, students are expected to have some coding experience before taking this course. This will aid in making the process of picking up the Python syntax more streamlined an will help cut down on the likelihoo of students falling behind.
+
+A complete list of the Python libraries that students will need is as follows:
+- Numpy
+- Pandas
+- Matploplib & Seaborn
+- Scipy
+- Scikit-Learn
+- PyTorch
+
+Further, if students already have Python set-up on their computers and are confident in their ability to use it, that is fine. Otherwise, I strongly recommend setting up Python through Anaconda as it will be very easy to download all libraries that will be needed throughout the semester. One can use this link to download Anaconda on any particular system:
+
+https://docs.anaconda.com/anaconda/install/
 
 
