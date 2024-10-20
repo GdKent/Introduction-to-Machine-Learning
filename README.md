@@ -76,8 +76,9 @@ A complete list of the Python libraries that students will need is as follows:
 - Scikit-Learn
 - PyTorch
 
-Further, if students already have Python set-up on their computers and are confident in their ability to use it, that is fine. Otherwise, I strongly recommend setting up Python through Anaconda as it will be very easy to download all libraries that will be needed throughout the semester. One can use this link to download Anaconda on any particular system:
+Further, if students already have Python set-up on their computers and are confident in their ability to use it, that is fine. Otherwise, I strongly recommend setting up Python through Anaconda as it will be very easy to download all libraries that will be needed throughout the semester.
 
-https://docs.anaconda.com/anaconda/install/
+
+
 
 
