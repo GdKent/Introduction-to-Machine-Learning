@@ -18,9 +18,9 @@ Please send any comments and corrections to me at gdk220@lehigh.edu. Further, if
 ![](What_is_ML.PNG)
 
 
+## Coding Competencies Overview
 
-
-
+![](Coding_Competencies.PNG)
 
 
 
