@@ -55,6 +55,11 @@ Further, more advanced topics that may not fit within the original span of mater
 
 ## Coding Competencies Overview
 
+As this is an introductory machine learning course, it is customary to incorporate a healthy amount of coding material to facilitate understanding and maximize learning outcomes by hands-on practice with algorithmic implementation or data mining. Naturally, Python is a first choice and is the language that is utilized in this class to
+aid in learning the material. Choosing Python as the language for this class has several benefits, some of which include: (1) Python is perhaps the most intuitive of the coding laguages as well as the most "required-to-know" languages, (2) access to powerful scientific computing, machine learning, and deep learning (DL) libraries (such as Numpy, Scikit-Learn, Scipy, and PyTorch), (3) students will get experience with the most-used libraries for data mining and machine learning, (4) Pytorch is perhaps the most-used DL library for doing research and implementing modern-day advanced (and custom) ML and DL models.
+
+This course is structured in a way where students are not required to have prior experience coding with Python (though it would be beneficial) as the first month or so is designed to include introductory material for each of the fundamental pyhon libraries: Numpy, Pandas, Matplotlib, and Seaborn. However, students are expected to have some coding experience before taking this course. This will aid in making the process of picking up the Python syntax more streamlined an will help cut down on the likelihoo of students falling behind.
+
 ![](Coding_Competencies.PNG)
 
 
