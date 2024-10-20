@@ -15,6 +15,16 @@ Please send any comments and corrections to me at gdk220@lehigh.edu. Further, if
 
 ## Course Overview & General Outline
 
+Machine learning (ML) is the study and development of algorithms that learn patterns from data in
+an automated way and is the bedrock of the field of artificial intelligence (AI). This is an introductory course in ML
+designed for senior undergraduate, master, and doctoral students who have a working knowledge of Python
+and sufficient knowledge in probability, statistics, multivariable calculus, and linear algebra. This course introduces
+the core principles of ML, fundamental techniques & models, data mining methodology, and prepares for more
+advanced study in ML. Emphasis will be placed on introducing ML models in an intuitive way from the
+fundamental mathematical building blocks in order to gain a deep understanding of the assumptions preceding each
+algorithm. The learning of these concepts will be facilitated with homework assignments that will consist of a
+mixture of mathematical and coding problems (emphasis will be placed on the mathematics behind the algorithms and experience applying these models in practice).
+
 ![](What_is_ML.PNG)
 
 
