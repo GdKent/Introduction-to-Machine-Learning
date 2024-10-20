@@ -66,7 +66,7 @@ aid in learning the material. Choosing Python as the language for this class has
 
 ![](Coding_Competencies.PNG)
 
-This course is structured in a way where students are not required to have prior experience coding with Python (though it would be beneficial) as the first month or so is designed to include introductory material for each of the fundamental pyhon libraries: Numpy, Pandas, Matplotlib, and Seaborn. However, students are expected to have some coding experience before taking this course. This will aid in making the process of picking up the Python syntax more streamlined an will help cut down on the likelihoo of students falling behind.
+This course is structured in a way where students are not required to have prior experience coding with Python (though it would be beneficial) as the first month or so is designed to include introductory material for each of the fundamental pyhon libraries: Numpy, Pandas, Matplotlib, and Seaborn. However, students are expected to have some coding experience before taking this course. This will aid in making the process of picking up the Python syntax more streamlined an will help cut down on the likelihood of students falling behind.
 
 A complete list of the Python libraries that students will need is as follows:
 - Numpy
