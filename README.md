@@ -25,6 +25,8 @@ fundamental mathematical building blocks in order to gain a deep understanding o
 algorithm. The learning of these concepts will be facilitated with homework assignments that will consist of a
 mixture of mathematical and coding problems (emphasis will be placed on the mathematics behind the algorithms and experience applying these models in practice).
 
+### Topics Covered
+
 ![](What_is_ML.PNG)
 
 The general outline of topics that are covered in this course can be split up into the 6 following categories (by topic):
@@ -41,7 +43,11 @@ The general outline of topics that are covered in this course can be split up in
 
 - **Data Mining Fundamentals:** Topics span the general procedure and workflow of the entire data mining process. This includes feature engineering, data cleaning, handling different types of data, feature encoding, model selection, cross-validation, and hyperparameter tuning.
 
+### General Timeline
+
 A rough timeframe to expect the material to cover in the order listed is as follows: (1/2 - 1 months) Intro and Review Material, (1 - 1.5 months) Discriminative Supervised Learning, (1 - 2 weeks) Generative Supervised Learning, (1 - 2 weeks) Unsupervised Learning, (1 - 2 weeks) Dimensionality Reduction, and (1 - 2 weeks) Data Mining Fundamentals. The amount of time dedicated to each topic can naturally be modified to cater to the goal of the instructor as well as the needs of the class (for example, taking more time in covering the review material if the class consists of mostly undergraduate students).
+
+### Advanced Topics
 
 Further, more advanced topics that may not fit within the original span of material covered by this course, but which is material that has been included in this repo (or will be uploaded in the future), and can be incorporated depending on the goals of the course are:
 
@@ -58,10 +64,8 @@ Further, more advanced topics that may not fit within the original span of mater
 As this is an introductory machine learning course, it is customary to incorporate a healthy amount of coding material to facilitate understanding and maximize learning outcomes by hands-on practice with algorithmic implementation or data mining. Naturally, Python is a first choice and is the language that is utilized in this class to
 aid in learning the material. Choosing Python as the language for this class has several benefits, some of which include: (1) Python is perhaps the most intuitive of the coding laguages as well as the most "required-to-know" languages, (2) access to powerful scientific computing, machine learning, and deep learning (DL) libraries (such as Numpy, Scikit-Learn, Scipy, and PyTorch), (3) students will get experience with the most-used libraries for data mining and machine learning, (4) Pytorch is perhaps the most-used DL library for doing research and implementing modern-day advanced (and custom) ML and DL models.
 
-This course is structured in a way where students are not required to have prior experience coding with Python (though it would be beneficial) as the first month or so is designed to include introductory material for each of the fundamental pyhon libraries: Numpy, Pandas, Matplotlib, and Seaborn. However, students are expected to have some coding experience before taking this course. This will aid in making the process of picking up the Python syntax more streamlined an will help cut down on the likelihoo of students falling behind.
-
 ![](Coding_Competencies.PNG)
 
-
+This course is structured in a way where students are not required to have prior experience coding with Python (though it would be beneficial) as the first month or so is designed to include introductory material for each of the fundamental pyhon libraries: Numpy, Pandas, Matplotlib, and Seaborn. However, students are expected to have some coding experience before taking this course. This will aid in making the process of picking up the Python syntax more streamlined an will help cut down on the likelihoo of students falling behind.
 
 
