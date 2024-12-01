@@ -80,7 +80,10 @@ A complete list of the Python libraries that students will need is as follows:
 
 Further, if students already have Python set-up on their computers and are confident in their ability to use it, that is fine. Otherwise, I strongly recommend setting up Python through Anaconda as it will be very easy to download all libraries that will be needed throughout the semester.
 
+### Final Project
 
+
+### Final Interview
 
 
 
