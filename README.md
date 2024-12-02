@@ -2,14 +2,14 @@
 
 ![](Intro_to_ML.png)
 
-Material for the course ISE-364/464, titled "Introduction to Machine Learning". This includes all original lecture slides that I created as well as homework assignments, projects, and the placement exam accompanying the course.
+Welcome! I created this repository to serve as a place to encapsulate all materials for the course ISE-364/464, titled "Introduction to Machine Learning", that I created for the course. This includes all original lecture slides that I created as well as homework assignments, projects, and the placement exam accompanying the course.
 
 I originally built this course and taught it in the Fall 2024 semester at Lehigh University in the Industrial and Systems Engineering (ISE) Department. Two sections of this course were taught in tandem: a 364 section (for senior undergraduate students) and a 464 section (for graduate students).
-As such, the lecture material remains the same for both sections, but the graduate section is simply augmented to have more difficult problems in the homework assignments and projects.
+As such, the lecture material remains the same for both sections, but the graduate section is simply augmented to have more difficult problems in the homework assignments and projects. It also bears mentioning that this course was originally delivered over and designed for a 16 week period (4 months).
 
-The material herein can be used in a variety of university, industrial, or recreational uses: to teach a university or industry-oriented introductory course on machine learning (ML), to serve as a comprehensive reference source for the fundamentals of the field of ML, or even topic-specific seminars (as the lectures are broken down by topic and are relatively independent from each other).
+The material herein can be used in a variety of university, industrial, or recreational uses: to teach a university or industry-oriented introductory course on machine learning (ML), to serve as a comprehensive reference source for the fundamentals of the field of ML, or even topic-specific seminars (as the lectures are broken down by topic and are relatively independent from each other; although some notation is introduced in earlier lectures and reused in later ones).
 
-I will maintain this repository and keep the material updated if any edits are required. Further, I may develop more advanced material for future education in more specialized topics (deep learning, data mining, statistics, and / or optimization, etc.) which I will distinguish from the core course material as "special topics".
+I will maintain this repository and keep the material updated if any edits are required. Further, I will continue to develop more advanced material for future education in more specialized topics (deep learning, data mining, statistics, and / or optimization, etc.) which I will distinguish from the core course material as "special topics". I will also refine the content herein to be more complete if I find some topics lacking in depth.
 
 Please send any comments and corrections to me at gdk220@lehigh.edu. Further, if you are a course instructor seeking complete solution write-ups for the homework assignments, again, please email me at the aforementioned address.
 
@@ -82,7 +82,22 @@ Further, if students already have Python set-up on their computers and are confi
 
 ## Homework, Final Project, & Final Interview
 
+The workload in this course is designed with the hope to best facilitate deep understanding and confidence with foundational topics in machine learning, which will ultimately be required for any further work in industry or advanced research. Understanding the fundamentals is key to performing well in any field.
 
+### Homework
 
+There are a total of 7 homework assignments that I made for this course and were designed to be assigned once every two weeks in consecutive order. The first assignment should be given two weeks after the start of the course such that enough material can be covered for the first assignment. Then, following the two week schedule, the final assignment would be collected at the end of the 16th week.
+
+The content of the homework assignments mostly consist of mathematical questions, theoretical proofs, by-hand computations with ML models, as well as some concept questions and coding questions. The assignments are designed to allow students to hone their mathematical and coding skills, while solidifying conceptual understanding and demystifying what is going on under-the-hood in ML algorithms.
+
+### Final Project
+
+There is a final project for this course that allows students to work in either a team or individual setting to solve a data mining problem. This assignment should be given near the start of the final month of classes and the students should have about 4 weeks to complete it. This involves fully analyzing a dataset a dataset, building the best ML model to predict some target variable, and then deliver a thorough write-up (research paper style) of their methodology, findings, and reasoning.
+
+### Final Interview
+
+There is no final "test" per say for this course (mostly because I do not believe that evaluating someones understanding of ML concepts is best achieved in a sit-down timed exam). However, I do think that one of the surest ways to evaluate the level of understanding someone has of these concepts is by having a face-to-face conversation with them "interview" stlye and ask them a seqies of conceptual questions. This benefits students in two ways: (1) it requires them to zoom out of the nitty-gritty mathematics of the homework assignments and grasp the over-arching concepts tying everything together (the how and why of ML) and (2) it prepares them for the real-life job market and in-depth interviews they will have to go through.
+
+In order to make the interviewing process fair for all students and ensure that later-interviewed students do not receive an unfair advantage from hearing what questions were asked to the earlier sudents, I have prepared a document with a teqt question bank that should be accessable to all students. All possible interview questions will be drawn from this document. Thus, all students have the same amount of knowledge on what to expect, and thw only way to be prepared is for them to study.
 
 
