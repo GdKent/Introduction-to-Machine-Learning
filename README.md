@@ -35,11 +35,11 @@ The general outline of topics that are covered in this course can be split up in
 
 - **Supervised Learning (Discriminative Models):** Topics span linear regression, logistic regression, K-nearest neighbors, decision trees, ensemble methods, support vector machines (SVM), and artificial neural networks.
 
-- **Supervised Learning (Generative Models):** Topics span Gaussian discriminative analysis (GDA) and naive Bayes.
+- **Supervised Learning (Generative Models):** Topics span Gaussian discriminative analysis (GDA) and naive Bayes (to be added in the future).
 
 - **Unsupervised Learning:** Topics span K-means clustering and Gaussian mixture models.
 
-- **Dimensionality Reduction:** Topics span principal component analysis (PCA) and linear discriminant analysis (LDA).
+- **Dimensionality Reduction:** Topics span principal component analysis (PCA) and linear discriminant analysis (LDA) (to be added in the future).
 
 - **Data Mining Fundamentals:** Topics span the general procedure and workflow of the entire data mining process. This includes feature engineering, data cleaning, handling different types of data, feature encoding, model selection, cross-validation, and hyperparameter tuning.
 
