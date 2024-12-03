@@ -101,3 +101,9 @@ There is no final "test" per say for this course (mostly because I do not believ
 In order to make the interviewing process fair for all students and ensure that later-interviewed students do not receive an unfair advantage from hearing what questions were asked to the earlier sudents, I have prepared a document with a teqt question bank that should be accessable to all students. All possible interview questions will be drawn from this document. Thus, all students have the same amount of knowledge on what to expect, and thw only way to be prepared is for them to study.
 
 
+
+
+## License
+- Educational materials: Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+
+
