@@ -92,7 +92,7 @@ The content of the homework assignments mostly consist of mathematical questions
 
 ### Final Project
 
-There is a final project for this course that allows students to work in either a team or individual setting to solve a data mining problem. This assignment should be given near the start of the final month of classes and the students should have about 4 weeks to complete it. This involves fully analyzing a dataset a dataset, building the best ML model to predict some target variable, and then deliver a thorough write-up (research paper style) of their methodology, findings, and reasoning. The dataset that is used for this project is a modified version of a well-known competitive housing price prediction dataset (name omitted here for grading integrity).
+There is a final project for this course that allows students to work in either a team or individual setting to solve a data mining problem. This assignment should be given near the start of the final month of classes and the students should have about 4 weeks to complete it. This involves fully analyzing a dataset a dataset, building the best ML model to predict some target variable, and then deliver a thorough write-up (research paper style) of their methodology, findings, and reasoning. The dataset that is used for this project is a modified version of a well-known, public, competitive housing price prediction dataset (see license for accreditation).
 
 ### Final Interview
 
