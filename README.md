@@ -1,5 +1,7 @@
 # Introduction to Machine Learning: Course ISE - 364 / 464
 
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+
 ![](Intro_to_ML.png)
 
 Welcome! I created this repository to serve as a place to encapsulate all materials for the course ISE-364/464, titled "Introduction to Machine Learning", that I created for the course. This includes all original lecture slides that I created as well as homework assignments, projects, and the placement exam accompanying the course.
