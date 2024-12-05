@@ -113,6 +113,11 @@ If you find this repository useful and end up using it in your research or teach
 G. D. Kent. *Introduction to Machine Learning*. GitHub, [https://github.com/GdKent/Introduction-to-Machine-Learning](https://github.com/GdKent/Introduction-to-Machine-Learning), 2024
 
 
+## Datasets
+
+This repository includes two datasets from Kaggle, both of which permit academic & educational use. Please see the LICENSE file for a full list of the datasets and their license terms. Further, please ensure your use of the datasets complies with Kaggle’s licensing terms and conditions.
+
+
 ## License
 - Educational materials: Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 
