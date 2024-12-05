@@ -105,6 +105,13 @@ In order to make the interviewing process fair for all students and ensure that 
 
 
 
+## Citation
+
+If you use this repository in your research or teaching, please cite it as:
+
+[G. D. Kent]. (2024). *Introduction to Machine Learning*. GitHub. [https://github.com/GdKent/Introduction-to-Machine-Learning](https://github.com/GdKent/Introduction-to-Machine-Learning)
+
+
 ## License
 - Educational materials: Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 
