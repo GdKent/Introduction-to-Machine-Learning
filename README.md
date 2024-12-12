@@ -115,7 +115,7 @@ This repository includes two datasets from Kaggle, both of which permit academic
 
 If you find this repository useful and end up using it in your research or teaching, please feel free to cite it as the following:
 
-G. D. Kent. *Introduction to Machine Learning*. GitHub, [https://github.com/GdKent/Introduction-to-Machine-Learning](https://github.com/GdKent/Introduction-to-Machine-Learning), 2024
+Kent, G. D. *Introduction to Machine Learning*. GitHub, [https://github.com/GdKent/Introduction-to-Machine-Learning](https://github.com/GdKent/Introduction-to-Machine-Learning), 2024
 
 ### General Disclaimer
 
