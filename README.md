@@ -1,7 +1,5 @@
 # Introduction to Machine Learning
 
-<h1 style="text-align: center;">Introduction to Machine Learning</h1>
-
 [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
 ![Python](https://img.shields.io/badge/python-3.9-lightgrey.svg)
 
