@@ -90,7 +90,7 @@ The workload in this course is designed with the hope to best facilitate deep un
 
 There are a total of 7 homework assignments that I made for this course and which were designed to be assigned once every two weeks in consecutive order. The first assignment should be given two weeks after the start of the course such that enough material can be covered for the first assignment. Then, following the two week schedule, the final assignment would be collected at the end of the 16th week.
 
-The content of the homework assignments mostly consist of mathematical questions, theoretical proofs, by-hand computations with ML models, as well as some concept questions and coding questions. The assignments are designed to allow students to hone their mathematical and coding skills, while solidifying conceptual understanding and demystifying what is going on under-the-hood in ML algorithms.
+The content of the homework assignments mostly consist of mathematical questions, theoretical proofs, by-hand computations with ML models, as well as some concept questions and coding questions. The assignments are designed to allow students to hone their mathematical and coding skills, while solidifying conceptual understanding and demystifying what is going on under-the-hood in ML algorithms. Some of the problems were inspired and distilled from courses that I experienced throughout my academic career.
 
 ### Final Project
 
