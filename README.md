@@ -5,7 +5,7 @@
 
 ![](Intro_to_ML.png)
 
-Welcome! I created this repository to serve as a place to encapsulate all materials that I created for the course ISE-364 / 464, titled "Introduction to Machine Learning". This includes all original lecture slides that I created as well as homework assignments, projects, and the placement exam accompanying the course.
+Welcome! This repository encapsulates all materials that I created for the course ISE-364 / 464, titled "Introduction to Machine Learning". This includes all original lecture slides as well as homework assignments, projects, and the placement exam accompanying the course.
 
 I originally built this course and taught it in the Fall 2024 semester at Lehigh University in the Industrial and Systems Engineering (ISE) Department. Two sections of this course were taught in tandem: a 364 section (for senior undergraduate students) and a 464 section (for graduate students).
 As such, the lecture material remains the same for both sections, but the graduate section is simply augmented to have more difficult problems in the homework assignments. It also bears mentioning that this course was originally delivered over and designed for a 16 week period (4 months).
