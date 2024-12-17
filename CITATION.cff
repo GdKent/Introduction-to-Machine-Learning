@@ -4,9 +4,9 @@ title: "Introduction to Machine Learning"
 authors:
   - family-names: "Kent"
     given-names: "Griffin Dean"
-date-released: "2024-12-05"
+date-released: "2024-12-17"
 version: "v1.0.0"
-doi: 
+doi: "https://doi.org/10.5281/zenodo.14509596"
 url: "https://github.com/GdKent/Introduction-to-Machine-Learning"
 abstract: "Machine learning (ML) is the study and development of algorithms that learn patterns from data in an automated way and is the bedrock of the field of artificial intelligence (AI). This is an introductory course in ML designed for senior undergraduate, master, and doctoral students.'"
 
@@ -20,6 +20,7 @@ preferred-citation:
   title: "Introduction to Machine Learning"
   year: 2024
   version: "v1.0.0"
+  doi: "https://doi.org/10.5281/zenodo.14509596"
   url: "https://github.com/GdKent/Introduction-to-Machine-Learning"
 
 
@@ -31,5 +32,6 @@ bibtex: |
     title = {Introduction to Machine Learning},
     year = {2024},
     version = {v1.0.0},
+    doi = {https://doi.org/10.5281/zenodo.14509596},
     url = {https://github.com/GdKent/Introduction-to-Machine-Learning}
   }
