@@ -56,7 +56,7 @@ A rough timeframe to expect the material to cover in the order listed is as foll
 
 Further, more advanced topics that may not fit within the original span of material covered by this course, but which is material that has been included in this repo (or will be uploaded in the future), and can be incorporated depending on the goals of the course are:
 
-- **Deep Learning:** Topics could span convolutional neural networks, recurrent neural networks, long-short-term (LST) neural networks, generative adversarial networks (GANs), transformers (encoder & decoder architectures), and neural architecture search (NAS).
+- **Deep Learning:** Topics could span convolutional neural networks, recurrent neural networks, long short-term memory (LSTM) neural networks, generative adversarial networks (GANs), transformers (encoder & decoder architectures), and neural architecture search (NAS).
 
 - **Advanced Unsupervised Learning:** Topics could span DBSCAN (density-based spatial clustering of applications with noise) and spectral clustering.
 
