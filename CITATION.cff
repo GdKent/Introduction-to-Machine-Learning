@@ -11,8 +11,9 @@ url: "https://github.com/GdKent/Introduction-to-Machine-Learning"
 abstract: "Machine learning (ML) is the study and development of algorithms that learn patterns from data in an automated way and is the bedrock of the field of artificial intelligence (AI). This is an introductory course in ML designed for senior undergraduate, master, and doctoral students.'"
 
 
+
 preferred-citation:
-  type: article
+  type: misc
   authors:
     - family-names: "Kent"
       given-names: "Griffin Dean"
@@ -21,8 +22,9 @@ preferred-citation:
   version: "v1.0.0"
   url: "https://github.com/GdKent/Introduction-to-Machine-Learning"
 
-# BibTeX Citation
 
+
+# BibTeX Citation
 bibtex: |
   @misc{kent_2024_intro_to_ML,
     author = {Griffin Dean Kent},
