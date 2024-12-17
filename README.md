@@ -1,5 +1,7 @@
 # Introduction to Machine Learning
 
+[![DOI](https://zenodo.org/badge/870795910.svg)](https://doi.org/10.5281/zenodo.14509595)
+
 [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
 ![Python](https://img.shields.io/badge/python-3.9-lightgrey.svg)
 
